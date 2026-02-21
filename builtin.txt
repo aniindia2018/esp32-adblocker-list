@@ -1,0 +1,65 @@
+# Pro Ad Blocker - Built-in Block List
+# Lines starting with # are comments
+# Format: domain.com or *.domain.com for wildcard
+
+# Google & DoubleClick
+doubleclick.net
+*.doubleclick.net
+googleadservices.com
+*.googleadservices.com
+googlesyndication.com
+*.googlesyndication.com
+googletagservices.com
+*.googletagservices.com
+adservice.google.com
+*.adservice.google.com
+pagead2.googlesyndication.com
+
+# YouTube ads
+ads.youtube.com
+*.ads.youtube.com
+
+# Facebook ads
+ads.facebook.com
+*.ads.facebook.com
+
+# Ad networks
+adserver.com
+*.adserver.com
+adnxs.com
+*.adnxs.com
+adform.net
+*.adform.net
+
+# Analytics/tracking
+google-analytics.com
+*.google-analytics.com
+googletagmanager.com
+*.googletagmanager.com
+ssl.google-analytics.com
+www.google-analytics.com
+analytics.google.com
+
+# Amazon
+amazon-adsystem.com
+*.amazon-adsystem.com
+
+# Taboola/Outbrain (content recommendations)
+taboola.com
+*.taboola.com
+outbrain.com
+*.outbrain.com
+
+# Other ad networks
+criteo.com
+*.criteo.com
+inmobi.com
+*.inmobi.com
+media.net
+*.media.net
+pubmatic.com
+*.pubmatic.com
+scorecardresearch.com
+*.scorecardresearch.com
+quantserve.com
+*.quantserve.com
