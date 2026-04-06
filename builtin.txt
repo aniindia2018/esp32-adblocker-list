@@ -107,3 +107,15 @@ mixpanel.com
 *.mixpanel.com
 segment.com
 *.segment.com
+
+# EasyList additions
+adzerk.net
+*.adzerk.net
+casalemedia.com
+*.casalemedia.com
+
+# Peter Lowe's list additions  
+adserver.org
+*.adserver.org
+adtech.com
+*.adtech.com
