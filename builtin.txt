@@ -63,3 +63,47 @@ scorecardresearch.com
 *.scorecardresearch.com
 quantserve.com
 *.quantserve.com
+
+# EasyList common domains (add to your existing list)
+adzerk.net
+*.adzerk.net
+casalemedia.com
+*.casalemedia.com
+exelator.com
+*.exelator.com
+contextweb.com
+*.contextweb.com
+adition.com
+*.adition.com
+adition.de
+*.adition.de
+adition.net
+*.adition.net
+
+# Peter Lowe's list common domains
+adtiger.com
+*.adtiger.com
+adserver.org
+*.adserver.org
+adtech.com
+*.adtech.com
+adtech.de
+*.adtech.de
+adtechus.com
+*.adtechus.com
+advertising.com
+*.advertising.com
+adbrite.com
+*.adbrite.com
+adblade.com
+*.adblade.com
+
+# Additional trackers
+facebook.com/tr
+google.com/analytics
+amplitude.com
+*.amplitude.com
+mixpanel.com
+*.mixpanel.com
+segment.com
+*.segment.com
